@@ -87,7 +87,7 @@ After the system processes the user’s query and determines it’s a
 chit-chat request through the SVM classifier, or by manual selection in
 UI it moves on to the **chit-chat** **handling** **module**.
 
-<img src="./mawaukc3.png"
+<img src="report_images.md/mawaukc3.png"
 style="width:4.16667in;height:2.6875in" />
 
 The system’s first major task after preprocessing the query is to figure
@@ -108,11 +108,11 @@ interactions.
 For example, if the user says something like, “Tell me a joke,” the
 chatbot uses the OpenAI API to generate a witty and humorous reply.
 
-<img src="./hmptyac4.png"
+<img src="report_images.md/hmptyac4.png"
 style="width:4.11458in;height:2.67708in" />Similarly, it can respond
 thoughtfully to statements like, “I’m feeling tired today.”
 
-<img src="./fb0zmr5r.png"
+<img src="report_images.md/fb0zmr5r.png"
 style="width:4.64583in;height:3.01042in" />
 
 This approach's ability to generate dynamic and context-aware responses
@@ -138,10 +138,10 @@ the query.
 For example, if a user asks, “What is the use of solar energy?”, the
 classifier would recognize this as related to the **Environment** topic.
 
-<img src="./peie2qdb.png" style="width:6.5in;height:0.76042in" />The
+<img src="report_images.md/peie2qdb.png" style="width:6.5in;height:0.76042in" />The
 associated document IDs:
 
-<img src="./vhzvedj3.png" style="width:6.5in;height:0.84375in" /><img src="./2fkvfatv.png"
+<img src="report_images.md/vhzvedj3.png" style="width:6.5in;height:0.84375in" /><img src="./2fkvfatv.png"
 style="width:2.32292in;height:3.58333in" />
 
 Similarly, a query like, “What are the symptoms of Migraine?” would be
@@ -296,12 +296,12 @@ through three visualizations:
 > representation in the form of a bar graph about the number of queries
 > made on each topic in the corpus.
 >
-> <img src="./bah1kudy.png"
+> <img src="report_images.md/bah1kudy.png"
 > style="width:5.9375in;height:2.70833in" />2. Chit Chat and Topic
 > distribution pie chart depicts General conversation vs Topic
 > Conversations which represents queries made on each segment.
 
-<img src="./flerqwkr.png" style="width:5.38542in;height:2.75in" />
+<img src="report_images.md/flerqwkr.png" style="width:5.38542in;height:2.75in" />
 
 > 3\. Queries asked every second show a line graph on the number of
 > queries made per each second, with more traffic the values of queries
