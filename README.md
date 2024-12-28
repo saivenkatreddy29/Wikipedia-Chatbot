@@ -321,12 +321,4 @@ from TF IDF inverted index or cosine similarity will be given to the
 summarizer and that summarizer will find out the exact answer only
 within the document and returns the answer.
 
-**Team** **contribution:**
 
-||
-||
-||
-||
-||
-||
-||
