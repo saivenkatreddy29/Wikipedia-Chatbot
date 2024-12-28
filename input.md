@@ -24,7 +24,7 @@ conversations in the user interface.
 
 **Methodology:**
 
-<img src="report.md/aij4ddtk.png" style="width:6.5in;height:2.29167in" />This
+<img src="report_images.md/aij4ddtk.png" style="width:6.5in;height:2.29167in" />This
 architecture outlines the process of building a chatbot capable of
 handling both general conversations (chit-chat) and answering questions
 using information from Wikipedia documents. Each step in the system
